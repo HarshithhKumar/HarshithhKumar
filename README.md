@@ -45,7 +45,7 @@
 
 ## Contact
 <p>
-  <a href="www.linkedin.com/in/sampangi-harshith-kumar">LinkedIn</a> •
+  <a href="[www.linkedin.com/in/sampangi-harshith-kumar](https://www.linkedin.com/in/sampangi-harshith-kumar/)">LinkedIn</a> •
   <a href="mailto:harshithkumar2023@gmail.com">Email</a> •
   <a href="https://HarshithhKumar.github.io">Portfolio</a>
 </p>
