@@ -35,10 +35,10 @@
 
 ## Featured Projects
 - **IoMusT — Internet of Musical Things** — `IoMusT` — LSTM + MATLAB + MIDI.  
-  Repo: `github.com/codewharshith/IoMusT`  
+  Repo: `  
  
   **AI Music Generator (MATLAB)** — LSTM trained on MIDI, GUI demo.  
-  Repo: `github.com/codewharshith/AIMusic-Generator`
+  Repo: ``
 
 
 ---
