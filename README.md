@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Harshith Kumar
+# Sampangi Harshith Kumar
 
 **Computer Science Engineering | Software Development | Applied Machine Learning**
 
