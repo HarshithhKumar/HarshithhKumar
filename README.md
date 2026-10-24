@@ -8,7 +8,7 @@
 
 Building practical software across APIs, full-stack applications, and sensor-based ML systems.
 
-[GitHub](https://github.com/HarshithhKumar) · [LinkedIn](https://linkedin.com/in/sampangi-harishth-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/)
+[GitHub](https://github.com/HarshithhKumar) · [LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
