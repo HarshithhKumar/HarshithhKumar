@@ -1,205 +1,79 @@
+<!-- Profile README for https://github.com/HarshithhKumar -->
+
 <div align="center">
 
-# Hey there! 👋 I'm Sampangi Harshith Kumar
+# Hi, I'm Harshith Kumar 👋
 
-### 🚀 Computer Science Engineering Student | AI & ML | Full Stack Developer | IoT Research Intern
+### Computer Science Engineering Student · Software Engineering · AI/ML · IoT
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;IoT+Research+Intern;Competitive+Programmer;Always+Learning+Something+New!" />
+I build backend systems, full-stack applications, and ML prototypes—with a focus on reliability, clear architecture, and measurable evaluation.
 
-<img src="https://komarev.com/ghpvc/?username=HarshithhKumar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+[GitHub](https://github.com/HarshithhKumar) · [LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About
 
-💻 Computer Science Engineering student at **SRM University AP**
+- 🎓 Computer Science Engineering student at **SRM University AP**
+- 🔬 Research intern working on **Internet of Musical Things (IoMusT)**
+- 🛠️ Interested in backend engineering, API design, data-intensive systems, and applied machine learning
+- 🌱 Currently strengthening DSA, system design, testing, and production-ready software practices
 
-🔬 Research Intern working on **Internet of Musical Things (IoMusT)**
+## Featured projects
 
-🤖 Passionate about
+### 1. [HookRelay](https://github.com/HarshithhKumar/HookRelay) — Reliable webhook processing
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Embedded Systems
-- Internet of Things
-- Software Engineering
+**FastAPI · PostgreSQL · React · Vite · Docker**
 
-🌱 Currently learning
+A webhook-driven comment-to-DM workflow built around signed event validation, durable job processing, deduplication, retry/backoff handling, rate limiting, and delivery reconciliation. Includes database migrations, backend tests, and a dashboard.
 
-- Advanced DSA
-- System Design
-- Backend Development
-- Deep Learning
+### 2. [Kinetix](https://github.com/HarshithhKumar/Kinetix) — Human activity recognition
 
-🎯 Goal
+**Python · TensorFlow/Keras · FastAPI · React · scikit-learn**
 
-Become a Software Engineer at a top product-based company while building impactful AI products.
+A full-stack activity-classification demo using a BiLSTM and the UCI Human Activity Recognition dataset. The repository reports **86.90% test accuracy** and **87.15% macro F1** on the UCI test set. Live phone-sensor inference is experimental and has not been quantitatively evaluated.
 
-⚡ Fun Fact
+### 3. [GestureFusion](https://github.com/HarshithhKumar/GestureFusion) — Gesture interaction prototype
 
-> I make computers understand gestures and play music 🎵
+**ESP32 · MATLAB · Python · scikit-learn**
 
----
+An embedded-sensing and signal-processing prototype with a Python training workflow and dashboard materials. The current training pipeline uses synthetic gesture data, so its metrics should be treated as a demonstration rather than real-world gesture-recognition performance.
 
-# 🌐 Connect With Me
+### 4. [Burnly](https://github.com/HarshithhKumar/Burnly) — Calorie-estimation ML demo
 
-<p align="center">
+**Python · scikit-learn**
 
-<a href="https://linkedin.com/in/sampangi-harshith-kumar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:harshithkumar2023@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/HarshithhKumar">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+A regression workflow for exploring model training and prediction. Its current dataset is synthetic; it is a learning/demo project, not a clinically validated calorie estimator.
 
 ---
 
-# 🚀 Tech Stack
+## Technical toolkit
 
-### Languages
+**Languages:** C++, Python, JavaScript, SQL
 
-<p>
+**Backend & web:** FastAPI, React, Vite, REST APIs, PostgreSQL
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql"/>
+**Machine learning & data:** TensorFlow/Keras, scikit-learn, NumPy, pandas
 
-</p>
+**Embedded & signal processing:** ESP32, Arduino, MATLAB, Simulink, MIDI, OSC/UDP
 
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-MATLAB • Simulink • Scikit-Learn • XGBoost • Pandas • NumPy
-
-</p>
-
-### Embedded
-
-ESP32 • Arduino IDE • MIDI • OSC/UDP
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</p>
+**Developer tools:** Git, GitHub, Docker, Linux
 
 ---
 
-# 🏆 Featured Projects
+## What I'm focusing on
 
-## 🤖 PrepPilot AI
-
-AI-powered learning platform that generates smart notes, diagrams, revision sheets and quizzes using Gemini API.
-
-**Tech**
-
-React • Node.js • Express • MongoDB • JWT • Gemini API
-
----
-
-## 🎵 GestureFusion
-
-Real-time gesture-controlled interactive music system using ESP32, MATLAB and Simulink.
-
----
-
-## 🍎 CaloriX
-
-Machine Learning project predicting calorie expenditure with **99.94% R² Accuracy** using XGBoost.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshithhKumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithhKumar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithhKumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarshithhKumar&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithhKumar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/codewharshith/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-✔ Data Structures & Algorithms
-
-✔ Full Stack Development
-
-✔ Machine Learning
-
-✔ Backend Engineering
-
-✔ Open Source
-
-✔ Building Real-World AI Projects
+- Writing reliable APIs and testable backend services
+- Improving data structures, algorithms, and system-design fundamentals
+- Building reproducible ML pipelines with honest evaluation
+- Documenting projects so another developer can run and verify them
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-### If you like my work, consider giving a ⭐ to my repositories!
+*I value clear engineering trade-offs, reproducible results, and software that is easy to understand and maintain.*
 
 </div>
