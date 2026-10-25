@@ -5,9 +5,7 @@
 
 <div align="center">
 
-# SAMPANGI HARSHITH KUMAR
-
-### CSE (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.svg" alt="Harshith Kumar — Full-Stack Development, Applied ML, IoT" width="100%" />
 
 **Building useful software, exploring applied ML, and connecting code with the physical world.**
 
