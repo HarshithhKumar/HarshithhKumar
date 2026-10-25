@@ -7,10 +7,10 @@
 <p><strong>Computer Science and Engineering (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT</strong></p>
 
 <p>
-  <a href="https://linkedin.com/in/sampangi-harshith-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshithkumar2023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/codewharshith/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codewharshith.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sampangi-harshith-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-155EAA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshithkumar2023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/codewharshith/"><img src="https://img.shields.io/badge/LeetCode-Profile-60A5FA?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codewharshith.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -18,6 +18,7 @@
 ---
 
 ## ABOUT ME
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
 <table>
 <tr>
@@ -59,6 +60,7 @@ const harshith = {
 </table>
 
 ## RESEARCH EXPERIENCE
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
 ### Research Intern, IoT and Internet of Musical Things (IoMusT)
 **SRM University AP · June 2025 to August 2025**
@@ -75,6 +77,7 @@ As part of my research internship, I worked on an IoT-based gesture recognition 
 ---
 
 ## SELECTED PROJECTS
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
 ### PrepPilot AI
 **AI Exam Notes Platform**
@@ -120,87 +123,89 @@ A deep-learning project that classifies six physical activities using accelerome
 ---
 
 ## TECH TOOLKIT
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
 <p><strong>Languages</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-2563EB?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-2563EB?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-60A5FA?style=flat&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p><strong>Frontend development</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind CSS, Vite" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/React_Router-3B82F6?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Axios-2563EB?style=flat&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
 <p><strong>Backend and APIs</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
-  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/REST_APIs-173B63?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-0B1F3A?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Multer-2563EB?style=flat" alt="Multer" />
 </p>
 
 <p><strong>Databases and data</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Mongoose-1D4ED8?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
 <p><strong>Machine learning and data science</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/LSTM-Time-series-6D28D9?style=flat" alt="LSTM time-series models" />
+  <img src="https://img.shields.io/badge/Keras-2563EB?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-1E40AF?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=flat" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3B82F6?style=flat" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/LSTM-Time-series-2563EB?style=flat" alt="LSTM time-series models" />
 </p>
 
 <p><strong>Generative AI and integrations</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white" alt="Google OAuth 2.0" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Gemini_API-2563EB?style=flat&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Google_OAuth-2563EB?style=flat&logo=google&logoColor=white" alt="Google OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Stripe-3B82F6?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Cloudinary-2563EB?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
 <p><strong>Embedded systems and signal processing</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat" alt="Embedded C" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
-  <img src="https://img.shields.io/badge/OSC%2FUDP-334155?style=flat" alt="OSC/UDP" />
+  <img src="https://img.shields.io/badge/MATLAB-2563EB?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-2563EB?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/ESP32-2563EB?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Embedded_C-2563EB?style=flat" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-3B82F6?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/OSC%2FUDP-173B63?style=flat" alt="OSC/UDP" />
 </p>
 
 <p><strong>Developer tools and deployment</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-60A5FA?style=flat&logo=render&logoColor=black" alt="Render" />
 </p>
 
 <p><strong>Core computer science</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-334155?style=flat" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/OOP-334155?style=flat" alt="Object-oriented programming" />
-  <img src="https://img.shields.io/badge/DBMS-334155?style=flat" alt="Database management systems" />
-  <img src="https://img.shields.io/badge/Operating_Systems-334155?style=flat" alt="Operating systems" />
-  <img src="https://img.shields.io/badge/Computer_Networks-334155?style=flat" alt="Computer networks" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-173B63?style=flat" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-173B63?style=flat" alt="Object-oriented programming" />
+  <img src="https://img.shields.io/badge/DBMS-173B63?style=flat" alt="Database management systems" />
+  <img src="https://img.shields.io/badge/Operating_Systems-173B63?style=flat" alt="Operating systems" />
+  <img src="https://img.shields.io/badge/Computer_Networks-173B63?style=flat" alt="Computer networks" />
 </p>
 
 ---
 
 ## GITHUB ANALYTICS
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshithhKumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" width="49%" />
