@@ -25,9 +25,42 @@
 
 ---
 
-## WHO I AM
+## ABOUT ME
 
-I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning at SRM University AP**. I enjoy building end-to-end web applications, working with time-series data, and experimenting with systems that connect software to real-world inputs.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Hey, I'm Harshith 👋
+
+I'm pursuing a **B.Tech in CSE (AI/ML) at SRM University AP**. I like building full-stack products, exploring practical machine learning, and working with systems that connect software to real-world inputs.
+
+- 💻 Interested in software engineering and backend development
+- 🧠 Exploring applied machine learning and time-series data
+- 🎛️ Worked with ESP32, MATLAB, Simulink, and OSC/UDP during my IoMusT research internship
+- 📜 Oracle Certified Professional: Java SE 17 Developer
+
+</td>
+<td width="42%" valign="top">
+
+### `harshith.profile()`
+
+```python
+harshith = {
+    "education": "CSE (AI/ML)",
+    "university": "SRM University AP",
+    "interests": [
+        "Full-stack development",
+        "Applied machine learning",
+        "IoT and signal processing"
+    ],
+    "currently": "building and learning"
+}
+```
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong>Research experience · Internet of Musical Things (IoMusT)</strong></summary>
@@ -145,6 +178,25 @@ An LSTM-based project that classifies six activities from smartphone acceleromet
 </td>
 </tr>
 </table>
+
+## GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshithhKumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile stats for HarshithhKumar" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithhKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshithhKumar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for HarshithhKumar" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithhKumar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for HarshithhKumar" width="100%" />
+</p>
+
+<sub>These visualizations are generated from GitHub activity and public repositories by external services; their availability and displayed data depend on those services.</sub>
+
+---
 
 ## EDUCATION & CERTIFICATION
 
