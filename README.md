@@ -1,25 +1,17 @@
-<!--
-  Profile README — HarshithhKumar
-  All claims below are based on the information in my resume and public repositories.
--->
+<!-- Profile README for HarshithhKumar -->
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.svg" alt="Harshith Kumar — Full-Stack Development, Applied ML, IoT" width="100%" />
 
-**Building useful software, exploring applied ML, and connecting code with the physical world.**
+<p><strong>Computer Science and Engineering (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT</strong></p>
 
 <p>
-  <a href="https://linkedin.com/in/sampangi-harshith-kumar">LinkedIn</a> &nbsp; • &nbsp;
-  <a href="mailto:harshithkumar2023@gmail.com">Email</a> &nbsp; • &nbsp;
-  <a href="https://leetcode.com/u/codewharshith/">LeetCode</a> &nbsp; • &nbsp;
-  <a href="https://github.com/HarshithhKumar">GitHub</a> &nbsp; • &nbsp;
-  <a href="https://codewharshith.github.io">Portfolio</a>
+  <a href="https://linkedin.com/in/sampangi-harshith-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshithkumar2023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/codewharshith/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codewharshith.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563eb?style=for-the-badge" alt="Focus: Software Engineering" />
-<img src="https://img.shields.io/badge/Focus-Applied%20ML-7c3aed?style=for-the-badge" alt="Focus: Applied ML" />
-<img src="https://img.shields.io/badge/Focus-IoT-0f766e?style=for-the-badge" alt="Focus: IoT" />
 
 </div>
 
@@ -31,204 +23,202 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hey, I'm Harshith 👋
+### Hey, I'm Harshith
 
-I'm pursuing a **B.Tech in CSE (AI/ML) at SRM University AP**. I like building full-stack products, exploring practical machine learning, and working with systems that connect software to real-world inputs.
+I'm pursuing a **B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP**. I enjoy building full-stack applications, exploring practical machine learning, and developing systems that connect software with real-world inputs.
 
-- 💻 Interested in software engineering and backend development
-- 🧠 Exploring applied machine learning and time-series data
-- 🎛️ Worked with ESP32, MATLAB, Simulink, and OSC/UDP during my IoMusT research internship
-- 📜 Oracle Certified Professional: Java SE 17 Developer
+My work spans web applications, sensor-driven prototypes, and deep-learning workflows. I like understanding how each part fits together—from data collection and preprocessing to APIs, user interfaces, and evaluation.
+
+**Areas I’m interested in**
+- Software engineering and backend development
+- Applied machine learning and time-series data
+- Embedded systems, IoT, and signal processing
+
+**Certification:** Oracle Certified Professional — Java SE 17 Developer (March 2026)
 
 </td>
 <td width="42%" valign="top">
 
 ### `harshith.profile()`
 
-```python
-harshith = {
-    "education": "CSE (AI/ML)",
-    "university": "SRM University AP",
-    "interests": [
-        "Full-stack development",
-        "Applied machine learning",
-        "IoT and signal processing"
-    ],
-    "currently": "building and learning"
-}
+```javascript
+const harshith = {
+  degree: "B.Tech CSE (AI/ML)",
+  university: "SRM University AP",
+  focus: [
+    "Full-stack development",
+    "Applied machine learning",
+    "IoT systems"
+  ],
+  tools: [
+    "React", "Node.js",
+    "Python", "TensorFlow",
+    "MATLAB", "ESP32"
+  ]
+};
 ```
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>Research experience · Internet of Musical Things (IoMusT)</strong></summary>
+## RESEARCH EXPERIENCE
 
-**Research Intern · SRM University AP · June–August 2025**
+### Research Intern — IoT and Internet of Musical Things (IoMusT)
+**SRM University AP · June 2025 – August 2025**
 
-- Worked with ESP32, MATLAB, and Simulink on a sensor-driven music system.
-- Developed sensor-data acquisition and preprocessing modules.
-- Worked with OSC/UDP communication to connect embedded inputs with audio-processing workflows.
+As part of my research internship, I worked on an IoT-based gesture recognition system that translates real-time sensor inputs into interactive audio responses for musical applications.
 
-</details>
+- **Sensor acquisition and embedded development:** Developed embedded software modules for collecting sensor data through ESP32-based prototypes and preparing motion inputs for downstream processing.
+- **Signal preprocessing and audio integration:** Worked with MATLAB and Simulink to preprocess sensor signals and connect gesture inputs with audio-processing workflows.
+- **Real-time communication:** Implemented OSC/UDP-based communication to link embedded devices with MATLAB-based processing modules, with attention to communication latency and system responsiveness.
+- **Testing and iteration:** Collaborated with faculty to test experimental prototypes and refine real-time processing workflows, synchronization, and system reliability across different test conditions.
 
-## PROJECTS I'M WORKING WITH
+**Tools and concepts:** ESP32, Embedded C, Arduino IDE, MATLAB, Simulink, OSC/UDP, sensor data acquisition, signal preprocessing, real-time systems, IoT.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 01 · PrepPilot AI
+## SELECTED PROJECTS
+
+### PrepPilot AI
 **AI Exam Notes Platform**
 
-An AI-assisted study platform described in my resume, focused on structured notes and revision workflows.
+An AI-powered study platform designed to generate structured exam notes, diagrams, charts, and graphs, with a revision mode to support review.
 
-**Stack**
+- Integrated Gemini API-based content generation and Google OAuth authentication with a credit-based usage model.
+- Planned and implemented REST API workflows for authentication, note generation, PDF export, and checkout, with JWT protection and Stripe payment integration.
+- Resume-listed stack: React.js, Node.js, Express.js, MongoDB, Gemini API, Stripe, Tailwind CSS.
 
-<img src="https://img.shields.io/badge/React.js-20232a?style=flat&logo=react&logoColor=61dafb" alt="React.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-111827?style=flat&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API" />
+[View repository overview](https://github.com/HarshithhKumar/PrepPilot-AI)
 
-[Repository overview ↗](https://github.com/HarshithhKumar/PrepPilot-AI)
+<sub>Repository note: the application source files are not currently published, so the implementation cannot yet be independently reviewed from GitHub.</sub>
 
-<sub>Note: the application source files are not currently published in this repository, so its implementation cannot yet be independently reviewed.</sub>
+---
 
-</td>
-<td width="50%" valign="top">
-
-### 02 · StreamVerse
+### StreamVerse
 **AI Video Streaming Platform**
 
-A full-stack streaming project described in my resume, with creator-oriented and discovery features.
+A full-stack, YouTube-style video platform with creator tools and content discovery features.
 
-**Stack**
+- Includes Shorts, playlists, subscriptions, watch history, and Cloudinary media storage in the project scope described on my resume.
+- Creator Studio functionality covers channel analytics and revenue/monetization; the project also includes AI-powered search and recommendations.
+- Resume-listed stack: React.js, Node.js, Express.js, MongoDB, JWT, Google OAuth, Cloudinary; the resume describes 5+ MongoDB models and 15+ REST endpoints.
 
-<img src="https://img.shields.io/badge/React.js-20232a?style=flat&logo=react&logoColor=61dafb" alt="React.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<sub>A public repository URL has not yet been verified, so no unverified project link is shown here.</sub>
 
-<sub>A public repository link has not yet been verified, so I haven't added an unverified link.</sub>
+---
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### Kinetix
+**Human Activity Recognition from Smartphone Sensors**
 
-### 03 · Kinetix
-**Human Activity Recognition · Python / Deep Learning**
+A deep-learning project that classifies six physical activities using accelerometer and gyroscope time-series from the UCI HAR dataset.
 
-An LSTM-based project that classifies six activities from smartphone accelerometer and gyroscope time-series using the UCI HAR dataset.
+- Built an LSTM-based classifier and applied time-series preprocessing, noise filtering, and fixed-width window segmentation.
+- Used L2 regularization during training and reviewed predictions with confusion-matrix analysis.
+- Stack: Python, TensorFlow, Keras, Pandas, NumPy, scikit-learn.
 
-**Stack**
+[Explore the repository](https://github.com/HarshithhKumar/Kinetix)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<sub>Evaluation note: reported accuracy is under re-validation because the repository metrics, saved-model evaluation, and resume figure do not currently agree.</sub>
 
-- Preprocessed and standardized sensor time-series and evaluated predictions using a confusion matrix.
-- **Evaluation status:** accuracy figures are being re-validated because the committed metrics, saved-model evaluation, and resume figure do not agree.
-
-[Explore Kinetix ↗](https://github.com/HarshithhKumar/Kinetix)
-
-</td>
-</tr>
-</table>
+---
 
 ## TECH TOOLKIT
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p><strong>Languages</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
 
-**LANGUAGES**
+<p><strong>Frontend development</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind CSS, Vite" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" />
+<p><strong>Backend and APIs</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Multer-2563EB?style=flat" alt="Multer" />
+</p>
 
-**FRONTEND**
+<p><strong>Databases and data</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind, Vite" />
+<p><strong>Machine learning and data science</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/LSTM-Time--series-6D28D9?style=flat" alt="LSTM time-series models" />
+</p>
 
-**BACKEND & DATA**
+<p><strong>Generative AI and integrations</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white" alt="Google OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" />
+<p><strong>Embedded systems and signal processing</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/OSC%2FUDP-334155?style=flat" alt="OSC/UDP" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p><strong>Developer tools and deployment</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
+</p>
 
-**MACHINE LEARNING**
+<p><strong>Core computer science</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-334155?style=flat" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-334155?style=flat" alt="Object-oriented programming" />
+  <img src="https://img.shields.io/badge/DBMS-334155?style=flat" alt="Database management systems" />
+  <img src="https://img.shields.io/badge/Operating_Systems-334155?style=flat" alt="Operating systems" />
+  <img src="https://img.shields.io/badge/Computer_Networks-334155?style=flat" alt="Computer networks" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" />
-
-**EMBEDDED & SIGNAL WORK**
-
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
-<img src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/OSC%2FUDP-334155?style=flat" alt="OSC/UDP" />
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
-
-</td>
-</tr>
-</table>
+---
 
 ## GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshithhKumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile stats for HarshithhKumar" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithhKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshithhKumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithhKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages in public repositories" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshithhKumar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for HarshithhKumar" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithhKumar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for HarshithhKumar" width="100%" />
-</p>
-
-<sub>These visualizations are generated from GitHub activity and public repositories by external services; their availability and displayed data depend on those services.</sub>
-
----
-
-## EDUCATION & CERTIFICATION
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**B.Tech · Computer Science and Engineering (AI/ML)**
-
-SRM University AP  
-August 2023 – Present
-
-</td>
-<td width="35%" valign="top">
-
-**Oracle Certified Professional**
-
-Java SE 17 Developer  
-March 2026
-
-</td>
-</tr>
-</table>
+<sub>Statistics are generated from public GitHub activity by an external service and may occasionally be unavailable.</sub>
 
 ---
 
 <div align="center">
 
-### OPEN TO LEARNING, BUILDING & COLLABORATING
+**Interested in software engineering, backend development, and applied machine learning.**
 
-Interested in software engineering, backend development, and applied machine learning.
-
-<sub>Thanks for stopping by — feel free to connect.</sub>
+[LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Portfolio](https://codewharshith.github.io) · [LeetCode](https://leetcode.com/u/codewharshith/)
 
 </div>
