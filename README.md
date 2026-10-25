@@ -32,9 +32,7 @@ The project is listed on my resume. Its current [GitHub repository](https://gith
 ### StreamVerse — AI Video Streaming Platform
 **React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Cloudinary**
 
-- Developed a full-stack video-streaming platform with Shorts, playlists, subscriptions, and watch-history modules.
-- Built a Creator Studio dashboard for channel analytics and revenue/monetization.
-- Implemented AI-powered search and recommendations, using 5+ MongoDB models and 15+ REST endpoints.
+This project is listed on my resume, but I could not locate a corresponding public repository in the GitHub repositories available for review. I have therefore not linked it or presented its implementation as independently verified here.
 
 ### [Kinetix](https://github.com/HarshithhKumar/Kinetix) — Human Activity Recognition
 **Python · TensorFlow · Keras · LSTM · Pandas · NumPy · scikit-learn**
