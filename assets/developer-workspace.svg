@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+<title id="title">Developer workspace illustration</title>
+<desc id="desc">A person coding at a desk beside tall windows, with a plant and warm desk lighting, in a dark navy and teal editorial style.</desc>
+<defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1524"/><stop offset="1" stop-color="#182b40"/></linearGradient>
+ <linearGradient id="window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162b43"/><stop offset="1" stop-color="#3a5d79"/></linearGradient>
+ <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#533d35"/><stop offset="1" stop-color="#1b202b"/></linearGradient>
+ <linearGradient id="lamp" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdc99"/><stop offset="1" stop-color="#d58b54"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#f6b76d" stop-opacity=".42"/><stop offset="1" stop-color="#f6b76d" stop-opacity="0"/></radialGradient>
+ <pattern id="lines" width="14" height="14" patternUnits="userSpaceOnUse"><path d="M0 0H14" stroke="#9bbbd0" stroke-opacity=".16" stroke-width="2"/></pattern>
+</defs>
+<rect width="720" height="900" rx="24" fill="#0b101b"/>
+<rect x="22" y="22" width="676" height="856" rx="16" fill="url(#wall)" stroke="#294158"/>
+<circle cx="510" cy="485" r="245" fill="url(#glow)"/>
+<!-- large windows -->
+<rect x="54" y="58" width="430" height="505" rx="5" fill="url(#window)" stroke="#56758e" stroke-width="5"/>
+<rect x="70" y="74" width="398" height="473" fill="url(#lines)"/>
+<path d="M170 74V547M270 74V547M370 74V547M70 200H468M70 326H468M70 452H468" stroke="#b3c9d8" stroke-opacity=".5" stroke-width="5"/>
+<path d="M70 74L468 547M468 74L70 547" stroke="#7fa1ba" stroke-opacity=".12" stroke-width="2"/>
+<!-- distant city -->
+<path d="M70 420L115 365L145 395L183 330L217 378L256 344L292 397L330 350L372 400L410 356L468 416V547H70Z" fill="#15293c" opacity=".85"/>
+<path d="M95 438h8v8h-8m38-30h8v8h-8m45 44h8v8h-8m60-87h8v8h-8m34 42h8v8h-8m55-63h8v8h-8m45 50h8v8h-8m34-34h8v8h-8" fill="#7dd3fc" opacity=".55"/>
+<!-- floor and desk -->
+<path d="M38 685L682 640V852H38Z" fill="#111824"/>
+<path d="M50 662L670 618L670 674L50 722Z" fill="url(#desk)" stroke="#654d43" stroke-width="3"/>
+<path d="M88 714L104 842M605 679L590 842" stroke="#473a36" stroke-width="20"/>
+<!-- person head/hair -->
+<path d="M345 436C337 394 355 360 390 358C423 356 444 382 438 420L425 456L360 461Z" fill="#11131a"/>
+<ellipse cx="393" cy="423" rx="38" ry="48" fill="#c58d6b"/>
+<path d="M355 415C345 380 367 350 402 353C432 356 446 379 438 405L420 386L395 397L373 389Z" fill="#171820"/>
+<!-- neck and torso -->
+<path d="M371 459L369 492L414 494L412 457Z" fill="#a66e56"/>
+<path d="M328 496C348 473 371 469 393 471C428 473 451 496 461 540L479 661L294 661L310 540C313 520 318 506 328 496Z" fill="#233b54"/>
+<path d="M365 481L391 515L418 480L433 492L408 542L382 541L349 493Z" fill="#d7e4ed" opacity=".92"/>
+<!-- chair -->
+<path d="M293 521Q260 522 259 562L253 674Q254 706 287 708L453 708Q482 706 480 673L469 562Q467 525 438 522Z" fill="#101722" stroke="#334457" stroke-width="5"/>
+<!-- arms -->
+<path d="M332 525L367 580L438 605L454 588L390 548L360 511Z" fill="#c58d6b"/>
+<path d="M435 604L470 612L479 599L454 583Z" fill="#c58d6b"/>
+<!-- monitor -->
+<rect x="478" y="456" width="166" height="113" rx="7" fill="#050a11" stroke="#506b80" stroke-width="5"/>
+<rect x="488" y="466" width="146" height="91" rx="3" fill="#101c2b"/>
+<path d="M501 484H551M501 498H600M501 512H570M501 526H615M501 540H580" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+<path d="M558 484H612M574 512H620M535 540H557" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+<path d="M560 569V590M532 590H590" stroke="#5b7185" stroke-width="6"/>
+<!-- keyboard -->
+<path d="M369 638L481 615L525 635L410 660Z" fill="#111a27" stroke="#4b5d6e" stroke-width="3"/>
+<path d="M391 640L479 623M401 648L491 631M415 655L504 638M410 632L427 651M433 628L450 646M456 624L474 642M478 620L496 637" stroke="#5c7186" stroke-width="2"/>
+<!-- lamp -->
+<path d="M583 412L612 349L628 356L604 418" stroke="#d7b78a" stroke-width="9" stroke-linecap="round"/>
+<path d="M597 350L635 365L653 336L616 319Z" fill="url(#lamp)"/>
+<circle cx="623" cy="356" r="68" fill="url(#glow)"/>
+<!-- plant -->
+<path d="M93 650L105 595M103 628L74 602M104 618L134 579M98 611L85 567M111 609L145 609M106 640L70 636" stroke="#5aa58b" stroke-width="7" stroke-linecap="round"/>
+<path d="M72 604Q48 573 66 561Q91 573 81 605ZM130 585Q133 553 153 554Q164 582 137 599ZM81 572Q64 544 83 532Q105 550 91 578ZM137 614Q159 590 176 605Q168 631 138 628ZM68 638Q40 616 51 600Q78 611 80 638Z" fill="#3b8b73"/>
+<path d="M72 652H145L136 704H81Z" fill="#b86f52"/>
+<path d="M82 666H138" stroke="#e4a17c" stroke-width="4"/>
+<!-- small ambient LEDs -->
+<circle cx="628" cy="788" r="4" fill="#22d3ee"/><circle cx="647" cy="788" r="4" fill="#a78bfa"/><circle cx="666" cy="788" r="4" fill="#f6b76d"/>
+<text x="54" y="816" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#8ba6bd">BUILD • TEST • IMPROVE</text>
+</svg>
