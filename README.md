@@ -1,127 +1,71 @@
-<!-- Profile README: https://github.com/HarshithhKumar -->
+<!-- Profile README for HarshithhKumar -->
 
 <div align="center">
 
 # Sampangi Harshith Kumar
 
-**Computer Science Engineering · Backend Development · Applied Machine Learning**
+**Computer Science and Engineering (AI/ML) Student | Full-Stack Development | Applied Machine Learning | IoT**
 
-Building practical software across APIs, full-stack applications, and sensor-based ML systems.
+I build full-stack applications, machine-learning workflows, and sensor-driven systems, with an emphasis on practical implementation, clear APIs, and measurable evaluation.
 
-[GitHub](https://github.com/HarshithhKumar) · [LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/)
-
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/) · [GitHub](https://github.com/HarshithhKumar)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I’m a Computer Science Engineering student at **SRM University AP** interested in backend systems, reliable APIs, and applied machine learning. I like connecting the pieces of a project—from data and persistence to model evaluation and the interface—and making the result understandable for another developer.
+I am pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at **SRM University AP**. My experience spans full-stack web development, applied deep learning, and embedded IoT systems.
 
-My work includes webhook automation, smartphone-sensor activity recognition, embedded interaction prototypes, and small ML pipelines. I’m also exploring the **Internet of Musical Things (IoMusT)** and connected interactive systems.
+As a **Research Intern at SRM University AP (June–August 2025)**, I worked on an Internet of Musical Things (IoMusT) project using ESP32, MATLAB, and Simulink. I developed sensor-data acquisition and preprocessing modules and worked with OSC/UDP communication to connect embedded inputs with audio-processing workflows.
 
-**Currently improving:** data structures and algorithms, backend reliability, database design, automated testing, and practical system design.
+I enjoy taking projects from problem definition through implementation and evaluation. I am particularly interested in software engineering, backend development, and applied ML.
 
-## Featured projects
+## Featured Projects
 
-<details>
-<summary><strong>HookRelay</strong> — Reliable webhook processing and comment-to-DM automation</summary>
+### [PrepPilot AI](https://github.com/HarshithhKumar/PrepPilot-AI) — AI Exam Notes Platform
+**React.js · Node.js · Express.js · MongoDB · Gemini API · Stripe · Tailwind CSS**
 
-**FastAPI · PostgreSQL · SQLAlchemy · React · Docker**
+- Developed an AI-powered exam-notes platform that generates structured notes, diagrams, charts, graphs, and revision-mode content using the Gemini API.
+- Implemented Google OAuth authentication and a credit-based usage system.
+- Built REST API endpoints for authentication, note generation, PDF export, and checkout, with JWT protection and Stripe payment integration.
+- Deployed the MERN-stack application on Render.
 
-A backend workflow that verifies incoming events, persists them, matches configured rules, and creates durable jobs for downstream message processing.
+### StreamVerse — AI Video Streaming Platform
+**React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Cloudinary**
 
-- Handles duplicate events, idempotency, retries/backoff, rate limits, and delivery-state reconciliation.
-- Includes a React dashboard and a PseudoGram mock API for testing without claiming a live Instagram integration.
-- Worker loops currently run inside the FastAPI process; a separate production worker deployment remains a future improvement.
+- Developed a full-stack video-streaming platform with Shorts, playlists, subscriptions, and watch-history modules.
+- Built a Creator Studio dashboard for channel analytics and revenue/monetization.
+- Implemented AI-powered search and recommendations, using 5+ MongoDB models and 15+ REST endpoints.
 
-**Focus:** API design, database modeling, and failure-aware asynchronous workflows.
+### [Kinetix](https://github.com/HarshithhKumar/Kinetix) — Human Activity Recognition
+**Python · TensorFlow · Keras · LSTM · Pandas · NumPy · scikit-learn**
 
-[View repository](https://github.com/HarshithhKumar/HookRelay)
+- Built a deep-learning system to classify six physical activities from smartphone accelerometer and gyroscope data using a two-layer LSTM network.
+- Achieved approximately **97% test accuracy** in the evaluation reported in my resume.
+- Applied time-series preprocessing, noise filtering, fixed-width window segmentation, and L2 regularization; evaluated results using a confusion matrix on the UCI HAR dataset.
 
-</details>
+## Technical Skills
 
-<details>
-<summary><strong>Kinetix</strong> — Human activity recognition from motion sensors</summary>
+- **Languages:** C, C++, Java, JavaScript (ES6+), Python
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, React Router, Axios, Vite
+- **Backend:** Node.js, Express.js, RESTful APIs, JWT authentication, Multer
+- **Databases:** MongoDB (Mongoose), MySQL
+- **Machine Learning:** TensorFlow, Keras, LSTM, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **GenAI and integrations:** Gemini API, Google OAuth 2.0, Stripe, Cloudinary
+- **Embedded and signal processing:** MATLAB, Simulink, ESP32, Embedded C, Arduino IDE, OSC/UDP, IoT
+- **Tools and deployment:** Git, GitHub, VS Code, Postman, Vercel, Render
 
-**Python · TensorFlow/Keras · scikit-learn · FastAPI · React**
+## Certification
 
-A full-stack classifier for six activities using accelerometer and gyroscope windows from the UCI Human Activity Recognition dataset. A Bidirectional LSTM model uses training-fitted scaling and serves predictions through FastAPI.
+**Oracle Certified Professional: Java SE 17 Developer** — March 2026
 
-- **Reported test results:** 86.90% accuracy and 87.15% macro F1 on the UCI test set.
-- The dashboard displays predictions, class probabilities, sensor traces, and evaluation information.
-- Browser-based live-phone capture is experimental and has not been quantitatively evaluated.
+## Education
 
-**Focus:** time-series preprocessing, model evaluation, and ML/API/frontend integration.
-
-[View repository](https://github.com/HarshithhKumar/Kinetix)
-
-</details>
-
-<details>
-<summary><strong>GestureFusion</strong> — Embedded sensing and gesture-interaction prototype</summary>
-
-**ESP32 · MATLAB · Python · scikit-learn · Signal Processing**
-
-An exploration of a sensor-to-classifier workflow, connecting embedded motion sensing with signal processing, feature extraction, and model training.
-
-- Includes a lightweight Random Forest training workflow and saved model/metrics artifacts.
-- The current pipeline uses **synthetic data**, so its metrics validate the workflow rather than real-world gesture accuracy.
-- The next step is evaluation on genuine sensor recordings.
-
-**Focus:** embedded/ML integration and cross-disciplinary prototyping.
-
-[View repository](https://github.com/HarshithhKumar/GestureFusion)
-
-</details>
-
-<details>
-<summary><strong>Burnly</strong> — Calorie-estimation regression demo</summary>
-
-**Python · scikit-learn · pandas · NumPy · pytest**
-
-A small tabular regression workflow covering data preparation, model training, saved artifacts, evaluation output, and visual exploration.
-
-- The current workflow can use synthetic data; results should not be treated as real-world or clinical accuracy.
-- A documented real dataset and leakage-safe evaluation would be needed for a meaningful performance assessment.
-
-**Focus:** reproducible ML pipelines and regression evaluation.
-
-[View repository](https://github.com/HarshithhKumar/Burnly)
-
-</details>
-
-## Technical toolkit
-
-| Area | Tools and concepts |
-|---|---|
-| **Languages** | C++, Python, JavaScript, SQL |
-| **Backend** | FastAPI, REST APIs, Pydantic, Uvicorn, SQLAlchemy |
-| **Frontend** | React, Vite, Axios, HTML, CSS |
-| **Data and storage** | PostgreSQL, relational modeling, migrations, durable job state |
-| **Machine learning** | TensorFlow, Keras, scikit-learn, NumPy, pandas, time-series classification, regression, model evaluation |
-| **Embedded and signals** | ESP32, Arduino, MATLAB, Simulink, accelerometer/gyroscope data, MIDI, OSC/UDP |
-| **Engineering tools** | pytest, Git, GitHub Actions, Docker, Linux |
-
-## Current focus
-
-- **Problem solving:** Practice DSA and complexity analysis in C++ and Python.
-- **Backend reliability:** Improve validation, transactions, retries, idempotency, and error handling.
-- **System design:** Learn schema design, indexing, caching, and service boundaries.
-- **Testing and CI:** Add meaningful unit/integration tests and reproducible automated checks.
-- **Applied ML:** Strengthen baseline comparisons, leakage prevention, and class-level evaluation.
+**B.Tech, Computer Science and Engineering (AI/ML)**  
+SRM University AP · August 2023 – Present
 
 ---
 
-<div align="center">
-
-**Open to software engineering and backend development opportunities.**
-
-</div>
+I am interested in opportunities where I can contribute to software development and applied machine learning, learn from engineering teams, and build reliable, useful products.
