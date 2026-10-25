@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.svg" alt="Harshith Kumar — Full-Stack Development, Applied ML, IoT" width="100%" />
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.svg" alt="Harshith Kumar, Full-Stack Development, Applied ML, IoT" width="100%" />
 
 <p><strong>Computer Science and Engineering (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT</strong></p>
 
@@ -47,7 +47,7 @@ const harshith = {
 };
 ```
 
-> I enjoy understanding how the pieces fit together — from raw data and system logic to the interface people actually use.
+> I enjoy understanding how the pieces fit together, from raw data and system logic to the interface people actually use.
 
 </td>
 <td width="48%" valign="top">
@@ -60,8 +60,8 @@ const harshith = {
 
 ## RESEARCH EXPERIENCE
 
-### Research Intern — IoT and Internet of Musical Things (IoMusT)
-**SRM University AP · June 2025 – August 2025**
+### Research Intern, IoT and Internet of Musical Things (IoMusT)
+**SRM University AP · June 2025 to August 2025**
 
 As part of my research internship, I worked on an IoT-based gesture recognition system that translates real-time sensor inputs into interactive audio responses for musical applications.
 
@@ -162,7 +162,7 @@ A deep-learning project that classifies six physical activities using accelerome
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/LSTM-Time--series-6D28D9?style=flat" alt="LSTM time-series models" />
+  <img src="https://img.shields.io/badge/LSTM-Time-series-6D28D9?style=flat" alt="LSTM time-series models" />
 </p>
 
 <p><strong>Generative AI and integrations</strong></p>
