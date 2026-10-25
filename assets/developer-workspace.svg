@@ -58,4 +58,5 @@
 <!-- small ambient LEDs -->
 <circle cx="628" cy="788" r="4" fill="#22d3ee"/><circle cx="647" cy="788" r="4" fill="#a78bfa"/><circle cx="666" cy="788" r="4" fill="#f6b76d"/>
 <text x="54" y="816" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#8ba6bd">BUILD • TEST • IMPROVE</text>
+<rect x="22" y="22" width="676" height="856" rx="16" fill="#1262b3" opacity="0.18" style="mix-blend-mode:color" pointer-events="none"/>
 </svg>
