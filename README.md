@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.svg" alt="Harshith Kumar, Full-Stack Development, Applied ML, IoT" width="100%" />
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/profile-banner.jpg" alt="Harshith Kumar, Full-Stack Development, Applied ML, IoT" width="100%" />
 
 <p><strong>Computer Science and Engineering (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT</strong></p>
 
