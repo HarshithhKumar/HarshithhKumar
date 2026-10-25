@@ -23,8 +23,6 @@
 <tr>
 <td width="52%" valign="top">
 
-### `harshith.profile()`
-
 ```javascript
 const harshith = {
   role: "CSE (AI/ML) Student",
