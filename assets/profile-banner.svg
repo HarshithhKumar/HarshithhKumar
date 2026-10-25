@@ -1,28 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="380" viewBox="0 0 1500 380" role="img" aria-labelledby="title desc">
-<title id="title">Harshith Kumar — Full-Stack Development, Applied ML, IoT</title>
-<desc id="desc">Dark navy and electric blue technology banner with abstract circuitry and a digital globe.</desc>
+<title id="title">Welcome to Harshith's GitHub</title>
+<desc id="desc">A minimal icy-blue sky over layered dark navy hills with a pale winding path, and a centered coding welcome.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b14"/><stop offset=".55" stop-color="#071827"/><stop offset="1" stop-color="#030812"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00d9ff"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
-  <radialGradient id="orb"><stop offset="0" stop-color="#0ea5e9" stop-opacity=".28"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#0ea5e9" stroke-opacity=".13" stroke-width="1"/></pattern>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c7e8fb"/><stop offset="1" stop-color="#8dbfe4"/></linearGradient>
+  <linearGradient id="hill1" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#102d51"/><stop offset="1" stop-color="#06172f"/></linearGradient>
+  <linearGradient id="hill2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#164578"/><stop offset="1" stop-color="#06162e"/></linearGradient>
+  <linearGradient id="path" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e2f4ff"/><stop offset="1" stop-color="#a8d9f6"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
 </defs>
-<rect width="1500" height="380" rx="18" fill="url(#bg)"/>
-<rect width="1500" height="380" rx="18" fill="url(#grid)"/>
-<circle cx="210" cy="190" r="260" fill="url(#orb)"/>
-<circle cx="210" cy="190" r="144" fill="none" stroke="#0891b2" stroke-opacity=".65" stroke-width="1.5"/>
-<circle cx="210" cy="190" r="112" fill="none" stroke="#0284c7" stroke-opacity=".65" stroke-dasharray="4 8"/>
-<ellipse cx="210" cy="190" rx="58" ry="144" fill="none" stroke="#22d3ee" stroke-opacity=".55"/>
-<ellipse cx="210" cy="190" rx="144" ry="48" fill="none" stroke="#22d3ee" stroke-opacity=".5"/>
-<path d="M40 252H140L190 205H302L352 160H460M40 288H120L166 242H260M58 112H138L174 148H276L310 114H380" fill="none" stroke="url(#glow)" stroke-width="2"/>
-<g fill="#22d3ee"><circle cx="140" cy="252" r="4"/><circle cx="302" cy="205" r="4"/><circle cx="352" cy="160" r="4"/><circle cx="166" cy="242" r="4"/><circle cx="174" cy="148" r="4"/></g>
-<path d="M420 0V380M435 0V380" stroke="#0ea5e9" stroke-opacity=".13"/>
-<path d="M1110 0H1500V380H1260L1370 270L1500 270" fill="#0b1d30" fill-opacity=".6"/>
-<path d="M1020 50H1200L1240 90H1430M1090 90H1170L1210 130H1460M1130 330H1270L1310 290H1470M1220 230H1320L1360 190H1500" fill="none" stroke="#0891b2" stroke-opacity=".65" stroke-width="2"/>
-<g fill="#38bdf8" fill-opacity=".75"><circle cx="1200" cy="50" r="4"/><circle cx="1430" cy="90" r="4"/><circle cx="1270" cy="330" r="4"/><circle cx="1360" cy="190" r="4"/></g>
-<text x="490" y="151" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="5">HARSHITH KUMAR</text>
-<rect x="492" y="177" width="108" height="4" rx="2" fill="url(#glow)"/>
-<text x="490" y="220" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="3">FULL-STACK DEVELOPMENT  •  APPLIED ML  •  IoT</text>
-<text x="490" y="263" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.4">CSE (AI/ML) STUDENT  |  SRM UNIVERSITY AP</text>
-<text x="490" y="330" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">BUILD • EXPERIMENT • ITERATE</text>
+<rect width="1500" height="380" fill="url(#sky)"/>
+<g opacity=".22" fill="#e8f6ff"><path d="M0 0H1500V46Q1200 58 920 35T350 45T0 40Z"/><path d="M0 92Q280 68 510 96T970 90T1500 82V120Q1100 134 790 112T250 118T0 126Z"/></g>
+<text x="750" y="112" text-anchor="middle" font-family="monospace" font-size="31" letter-spacing="1.4" fill="#355b7d">Welcome to Harshith's GitHub</text>
+<text x="750" y="151" text-anchor="middle" font-family="monospace" font-size="29" fill="#355b7d">&lt;/&gt;</text>
+<path d="M0 232Q90 235 156 204T300 222Q420 258 555 246T770 238Q865 240 930 259T1120 251Q1280 247 1370 224T1500 220V380H0Z" fill="#102f55"/>
+<path d="M0 255Q100 269 195 236T360 252Q470 281 615 269T805 253Q905 263 1000 286T1200 278Q1370 264 1500 241V380H0Z" fill="url(#hill1)"/>
+<path d="M0 284Q170 258 280 291T510 317Q630 323 710 294T885 285Q1000 306 1110 317T1320 297L1500 276V380H0Z" fill="url(#hill2)"/>
+<path d="M695 380Q720 350 758 334Q806 315 785 300Q758 282 822 267Q880 253 922 246Q854 249 812 260Q751 276 774 297Q796 313 744 330Q696 347 658 380Z" fill="url(#path)"/>
+<path d="M0 310Q175 288 298 325T520 355Q595 363 658 380H0Z" fill="#041329" opacity=".55"/>
+<path d="M920 246Q1030 266 1110 288T1320 297L1500 276V380H915Q958 350 1010 338Q1072 324 1030 310Q987 295 1054 283Q1115 270 1170 262Q1054 271 1001 286Q937 302 969 318Q1002 335 943 352Q910 363 885 380H1500V276Q1320 300 1200 292T1000 260Z" fill="#06172e" opacity=".9"/>
+<path d="M0 232Q90 235 156 204T300 222Q420 258 555 246T770 238Q865 240 930 259T1120 251Q1280 247 1370 224T1500 220" fill="none" stroke="#4c78a1" stroke-opacity=".38" stroke-width="2"/>
 </svg>
