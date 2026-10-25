@@ -21,42 +21,40 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
-
-### Hey, I'm Harshith
-
-I'm pursuing a **B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP**. I enjoy building full-stack applications, exploring practical machine learning, and developing systems that connect software with real-world inputs.
-
-My work spans web applications, sensor-driven prototypes, and deep-learning workflows. I like understanding how each part fits together—from data collection and preprocessing to APIs, user interfaces, and evaluation.
-
-**Areas I’m interested in**
-- Software engineering and backend development
-- Applied machine learning and time-series data
-- Embedded systems, IoT, and signal processing
-
-**Certification:** Oracle Certified Professional — Java SE 17 Developer (March 2026)
-
-</td>
-<td width="42%" valign="top">
+<td width="52%" valign="top">
 
 ### `harshith.profile()`
 
 ```javascript
 const harshith = {
-  degree: "B.Tech CSE (AI/ML)",
-  university: "SRM University AP",
-  focus: [
-    "Full-stack development",
-    "Applied machine learning",
-    "IoT systems"
+  role: "CSE (AI/ML) Student",
+  location: "India",
+  building: [
+    "Full-stack applications",
+    "Applied ML projects",
+    "Sensor-driven systems"
   ],
-  tools: [
-    "React", "Node.js",
-    "Python", "TensorFlow",
-    "MATLAB", "ESP32"
-  ]
+  learning: [
+    "Backend engineering",
+    "Time-series ML",
+    "IoT and signal processing"
+  ],
+  tech: {
+    frontend: ["React", "JavaScript"],
+    backend: ["Node.js", "Express"],
+    ml: ["Python", "TensorFlow"],
+    embedded: ["ESP32", "MATLAB"]
+  },
+  certification: "Java SE 17 OCP"
 };
 ```
+
+> I enjoy understanding how the pieces fit together — from raw data and system logic to the interface people actually use.
+
+</td>
+<td width="48%" valign="top">
+
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/developer-workspace.svg" alt="Illustration of a developer working at a desk beside a window" width="100%" />
 
 </td>
 </tr>
