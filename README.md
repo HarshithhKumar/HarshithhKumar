@@ -24,13 +24,10 @@ I enjoy taking projects from problem definition through implementation and evalu
 
 ## Featured Projects
 
-### [PrepPilot AI](https://github.com/HarshithhKumar/PrepPilot-AI) — AI Exam Notes Platform
+### PrepPilot AI — AI Exam Notes Platform
 **React.js · Node.js · Express.js · MongoDB · Gemini API · Stripe · Tailwind CSS**
 
-- Developed an AI-powered exam-notes platform that generates structured notes, diagrams, charts, graphs, and revision-mode content using the Gemini API.
-- Implemented Google OAuth authentication and a credit-based usage system.
-- Built REST API endpoints for authentication, note generation, PDF export, and checkout, with JWT protection and Stripe payment integration.
-- Deployed the MERN-stack application on Render.
+The project is listed on my resume. Its current [GitHub repository](https://github.com/HarshithhKumar/PrepPilot-AI) contains the project overview, but the application source files are not currently published there, so implementation details cannot yet be independently reviewed.
 
 ### StreamVerse — AI Video Streaming Platform
 **React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Cloudinary**
@@ -42,9 +39,9 @@ I enjoy taking projects from problem definition through implementation and evalu
 ### [Kinetix](https://github.com/HarshithhKumar/Kinetix) — Human Activity Recognition
 **Python · TensorFlow · Keras · LSTM · Pandas · NumPy · scikit-learn**
 
-- Built a deep-learning system to classify six physical activities from smartphone accelerometer and gyroscope data using a two-layer LSTM network.
-- Achieved approximately **97% test accuracy** in the evaluation reported in my resume.
-- Applied time-series preprocessing, noise filtering, fixed-width window segmentation, and L2 regularization; evaluated results using a confusion matrix on the UCI HAR dataset.
+- Built a deep-learning system to classify six physical activities from smartphone accelerometer and gyroscope time-series using an LSTM-based model.
+- Applied time-series preprocessing, standardization, and fixed-width window segmentation on the UCI HAR dataset; evaluated predictions with a confusion matrix.
+- The repository's accuracy figures are currently under re-validation because the committed metrics, saved model evaluation, and resume figure do not agree.
 
 ## Technical Skills
 
