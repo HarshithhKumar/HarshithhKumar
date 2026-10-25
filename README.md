@@ -1,66 +1,184 @@
-<!-- Profile README for HarshithhKumar -->
+<!--
+  Profile README — HarshithhKumar
+  All claims below are based on the information in my resume and public repositories.
+-->
 
 <div align="center">
 
-# Sampangi Harshith Kumar
+# SAMPANGI HARSHITH KUMAR
 
-**Computer Science and Engineering (AI/ML) Student | Full-Stack Development | Applied Machine Learning | IoT**
+### CSE (AI/ML) · Full-Stack Development · Applied Machine Learning · IoT
 
-I build full-stack applications, machine-learning workflows, and sensor-driven systems, with an emphasis on practical implementation, clear APIs, and measurable evaluation.
+**Building useful software, exploring applied ML, and connecting code with the physical world.**
 
-[LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Email](mailto:harshithkumar2023@gmail.com) · [LeetCode](https://leetcode.com/u/codewharshith/) · [GitHub](https://github.com/HarshithhKumar)
+<p>
+  <a href="https://linkedin.com/in/sampangi-harshith-kumar">LinkedIn</a> &nbsp; • &nbsp;
+  <a href="mailto:harshithkumar2023@gmail.com">Email</a> &nbsp; • &nbsp;
+  <a href="https://leetcode.com/u/codewharshith/">LeetCode</a> &nbsp; • &nbsp;
+  <a href="https://github.com/HarshithhKumar">GitHub</a> &nbsp; • &nbsp;
+  <a href="https://codewharshith.github.io">Portfolio</a>
+</p>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563eb?style=for-the-badge" alt="Focus: Software Engineering" />
+<img src="https://img.shields.io/badge/Focus-Applied%20ML-7c3aed?style=for-the-badge" alt="Focus: Applied ML" />
+<img src="https://img.shields.io/badge/Focus-IoT-0f766e?style=for-the-badge" alt="Focus: IoT" />
 
 </div>
 
 ---
 
-## About Me
+## WHO I AM
 
-I am pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at **SRM University AP**. My experience spans full-stack web development, applied deep learning, and embedded IoT systems.
+I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning at SRM University AP**. I enjoy building end-to-end web applications, working with time-series data, and experimenting with systems that connect software to real-world inputs.
 
-As a **Research Intern at SRM University AP (June–August 2025)**, I worked on an Internet of Musical Things (IoMusT) project using ESP32, MATLAB, and Simulink. I developed sensor-data acquisition and preprocessing modules and worked with OSC/UDP communication to connect embedded inputs with audio-processing workflows.
+<details>
+<summary><strong>Research experience · Internet of Musical Things (IoMusT)</strong></summary>
 
-I enjoy taking projects from problem definition through implementation and evaluation. I am particularly interested in software engineering, backend development, and applied ML.
+**Research Intern · SRM University AP · June–August 2025**
 
-## Featured Projects
+- Worked with ESP32, MATLAB, and Simulink on a sensor-driven music system.
+- Developed sensor-data acquisition and preprocessing modules.
+- Worked with OSC/UDP communication to connect embedded inputs with audio-processing workflows.
 
-### PrepPilot AI — AI Exam Notes Platform
-**React.js · Node.js · Express.js · MongoDB · Gemini API · Stripe · Tailwind CSS**
+</details>
 
-The project is listed on my resume. Its current [GitHub repository](https://github.com/HarshithhKumar/PrepPilot-AI) contains the project overview, but the application source files are not currently published there, so implementation details cannot yet be independently reviewed.
+## PROJECTS I'M WORKING WITH
 
-### StreamVerse — AI Video Streaming Platform
-**React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Cloudinary**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-This project is listed on my resume, but I could not locate a corresponding public repository in the GitHub repositories available for review. I have therefore not linked it or presented its implementation as independently verified here.
+### 01 · PrepPilot AI
+**AI Exam Notes Platform**
 
-### [Kinetix](https://github.com/HarshithhKumar/Kinetix) — Human Activity Recognition
-**Python · TensorFlow · Keras · LSTM · Pandas · NumPy · scikit-learn**
+An AI-assisted study platform described in my resume, focused on structured notes and revision workflows.
 
-- Built a deep-learning system to classify six physical activities from smartphone accelerometer and gyroscope time-series using an LSTM-based model.
-- Applied time-series preprocessing, standardization, and fixed-width window segmentation on the UCI HAR dataset; evaluated predictions with a confusion matrix.
-- The repository's accuracy figures are currently under re-validation because the committed metrics, saved model evaluation, and resume figure do not agree.
+**Stack**
 
-## Technical Skills
+<img src="https://img.shields.io/badge/React.js-20232a?style=flat&logo=react&logoColor=61dafb" alt="React.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-111827?style=flat&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API" />
 
-- **Languages:** C, C++, Java, JavaScript (ES6+), Python
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, React Router, Axios, Vite
-- **Backend:** Node.js, Express.js, RESTful APIs, JWT authentication, Multer
-- **Databases:** MongoDB (Mongoose), MySQL
-- **Machine Learning:** TensorFlow, Keras, LSTM, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **GenAI and integrations:** Gemini API, Google OAuth 2.0, Stripe, Cloudinary
-- **Embedded and signal processing:** MATLAB, Simulink, ESP32, Embedded C, Arduino IDE, OSC/UDP, IoT
-- **Tools and deployment:** Git, GitHub, VS Code, Postman, Vercel, Render
+[Repository overview ↗](https://github.com/HarshithhKumar/PrepPilot-AI)
 
-## Certification
+<sub>Note: the application source files are not currently published in this repository, so its implementation cannot yet be independently reviewed.</sub>
 
-**Oracle Certified Professional: Java SE 17 Developer** — March 2026
+</td>
+<td width="50%" valign="top">
 
-## Education
+### 02 · StreamVerse
+**AI Video Streaming Platform**
 
-**B.Tech, Computer Science and Engineering (AI/ML)**  
-SRM University AP · August 2023 – Present
+A full-stack streaming project described in my resume, with creator-oriented and discovery features.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/React.js-20232a?style=flat&logo=react&logoColor=61dafb" alt="React.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+
+<sub>A public repository link has not yet been verified, so I haven't added an unverified link.</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 03 · Kinetix
+**Human Activity Recognition · Python / Deep Learning**
+
+An LSTM-based project that classifies six activities from smartphone accelerometer and gyroscope time-series using the UCI HAR dataset.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+
+- Preprocessed and standardized sensor time-series and evaluated predictions using a confusion matrix.
+- **Evaluation status:** accuracy figures are being re-validated because the committed metrics, saved-model evaluation, and resume figure do not agree.
+
+[Explore Kinetix ↗](https://github.com/HarshithhKumar/Kinetix)
+
+</td>
+</tr>
+</table>
+
+## TECH TOOLKIT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind, Vite" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" />
+
+</td>
+<td width="50%" valign="top">
+
+**MACHINE LEARNING**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" />
+
+**EMBEDDED & SIGNAL WORK**
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/OSC%2FUDP-334155?style=flat" alt="OSC/UDP" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
+
+</td>
+</tr>
+</table>
+
+## EDUCATION & CERTIFICATION
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**B.Tech · Computer Science and Engineering (AI/ML)**
+
+SRM University AP  
+August 2023 – Present
+
+</td>
+<td width="35%" valign="top">
+
+**Oracle Certified Professional**
+
+Java SE 17 Developer  
+March 2026
+
+</td>
+</tr>
+</table>
 
 ---
 
-I am interested in opportunities where I can contribute to software development and applied machine learning, learn from engineering teams, and build reliable, useful products.
+<div align="center">
+
+### OPEN TO LEARNING, BUILDING & COLLABORATING
+
+Interested in software engineering, backend development, and applied machine learning.
+
+<sub>Thanks for stopping by — feel free to connect.</sub>
+
+</div>
