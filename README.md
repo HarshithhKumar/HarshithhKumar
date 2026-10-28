@@ -48,7 +48,7 @@ const harshith = {
 };
 ```
 
-> I enjoy understanding how the pieces fit together, from raw data and system logic to the interface people actually use.
+> I like knowing what happens under the hood. 😏
 
 </td>
 <td width="48%" valign="top">
