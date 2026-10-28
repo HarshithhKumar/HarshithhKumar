@@ -20,10 +20,6 @@
 ## ABOUT ME
 <p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
 ```javascript
 const harshith = {
   role: "CSE (AI/ML) Student",
@@ -49,15 +45,6 @@ const harshith = {
 ```
 
 > I like knowing what happens under the hood. 😏
-
-</td>
-<td width="48%" valign="top">
-
-<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/developer-workspace.svg" alt="Illustration of a developer working at a desk beside a window" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ## RESEARCH EXPERIENCE
 <p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
