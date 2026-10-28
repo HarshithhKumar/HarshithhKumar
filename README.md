@@ -128,82 +128,81 @@ A deep-learning project that classifies six physical activities using accelerome
 ## TECH TOOLKIT
 <p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
-<p><strong>Languages</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/C-2563EB?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-2563EB?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-2563EB?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-60A5FA?style=flat&logo=javascript&logoColor=black" alt="JavaScript ES6+" />
-  <img src="https://img.shields.io/badge/Python-2563EB?style=flat&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p><strong>Frontend development</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind CSS, Vite" />
-  <img src="https://img.shields.io/badge/React_Router-3B82F6?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Axios-2563EB?style=flat&logo=axios&logoColor=white" alt="Axios" />
-</p>
-
-<p><strong>Backend and APIs</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
-  <img src="https://img.shields.io/badge/REST_APIs-173B63?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT-0B1F3A?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Multer-2563EB?style=flat" alt="Multer" />
-</p>
-
-<p><strong>Databases and data</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
-  <img src="https://img.shields.io/badge/Mongoose-1D4ED8?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
-</p>
-
-<p><strong>Machine learning and data science</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" />
-  <img src="https://img.shields.io/badge/Keras-2563EB?style=flat&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-1E40AF?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=flat" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3B82F6?style=flat" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/LSTM-Time-series-2563EB?style=flat" alt="LSTM time-series models" />
-</p>
-
-<p><strong>Generative AI and integrations</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Gemini_API-2563EB?style=flat&logo=google&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Google_OAuth-2563EB?style=flat&logo=google&logoColor=white" alt="Google OAuth 2.0" />
-  <img src="https://img.shields.io/badge/Stripe-3B82F6?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Cloudinary-2563EB?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-</p>
-
-<p><strong>Embedded systems and signal processing</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/MATLAB-2563EB?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Simulink-2563EB?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
-  <img src="https://img.shields.io/badge/ESP32-2563EB?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Embedded_C-2563EB?style=flat" alt="Embedded C" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-3B82F6?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
-  <img src="https://img.shields.io/badge/OSC%2FUDP-173B63?style=flat" alt="OSC/UDP" />
-</p>
-
-<p><strong>Developer tools and deployment</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, Vercel" />
-  <img src="https://img.shields.io/badge/Render-60A5FA?style=flat&logo=render&logoColor=black" alt="Render" />
-</p>
-
-<p><strong>Core computer science</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-173B63?style=flat" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/OOP-173B63?style=flat" alt="Object-oriented programming" />
-  <img src="https://img.shields.io/badge/DBMS-173B63?style=flat" alt="Database management systems" />
-  <img src="https://img.shields.io/badge/Operating_Systems-173B63?style=flat" alt="Operating systems" />
-  <img src="https://img.shields.io/badge/Computer_Networks-173B63?style=flat" alt="Computer networks" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="C, C++, Java, JavaScript, Python" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript_ES6%2B-2563EB?style=flat&logo=javascript&logoColor=white" alt="JavaScript ES6+" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend development</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind CSS, Vite" /><br/>
+      <img src="https://img.shields.io/badge/React_Router-3B82F6?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
+      <img src="https://img.shields.io/badge/Axios-2563EB?style=flat&logo=axios&logoColor=white" alt="Axios" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend and APIs</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" /><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-173B63?style=flat" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/JWT-0B1F3A?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Multer-2563EB?style=flat" alt="Multer" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Databases and data</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" /><br/>
+      <img src="https://img.shields.io/badge/SQLite-2563EB?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Mongoose-1D4ED8?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Machine learning and data science</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and scikit-learn" /><br/>
+      <img src="https://img.shields.io/badge/Keras-2563EB?style=flat&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/Pandas-1E40AF?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=flat" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/LSTM-Time_series-2563EB?style=flat" alt="LSTM time-series models" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Generative AI and integrations</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Gemini_API-2563EB?style=flat&logo=google&logoColor=white" alt="Gemini API" />
+      <img src="https://img.shields.io/badge/Google_OAuth-2563EB?style=flat&logo=google&logoColor=white" alt="Google OAuth 2.0" />
+      <img src="https://img.shields.io/badge/Stripe-3B82F6?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
+      <img src="https://img.shields.io/badge/Cloudinary-2563EB?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Embedded systems and signal processing</strong><br/><br/>
+      <img src="https://img.shields.io/badge/MATLAB-2563EB?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/Simulink-2563EB?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
+      <img src="https://img.shields.io/badge/ESP32-2563EB?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/Embedded_C-2563EB?style=flat" alt="Embedded C" />
+      <img src="https://img.shields.io/badge/Arduino_IDE-3B82F6?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+      <img src="https://img.shields.io/badge/OSC%2FUDP-173B63?style=flat" alt="OSC/UDP" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Developer tools and deployment</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel, docker" alt="Git, GitHub, VS Code, Postman, Vercel, Docker" /><br/>
+      <img src="https://img.shields.io/badge/Render-60A5FA?style=flat&logo=render&logoColor=black" alt="Render" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Core computer science</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-173B63?style=flat" alt="Data Structures and Algorithms" />
+      <img src="https://img.shields.io/badge/OOP-173B63?style=flat" alt="Object-oriented programming" />
+      <img src="https://img.shields.io/badge/DBMS-173B63?style=flat" alt="Database management systems" />
+      <img src="https://img.shields.io/badge/Operating_Systems-173B63?style=flat" alt="Operating systems" />
+      <img src="https://img.shields.io/badge/Computer_Networks-173B63?style=flat" alt="Computer networks" />
+    </td>
+  </tr>
+</table>
 
 ---
 
