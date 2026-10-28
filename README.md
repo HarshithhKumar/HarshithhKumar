@@ -94,6 +94,22 @@ An AI-powered study platform designed to generate structured exam notes, diagram
 
 ---
 
+### HookRelay
+**Reliable Webhook Processing and Comment-to-DM Automation**
+
+An event-driven application that receives signed webhook events, matches incoming comments against keyword rules, and creates durable outbound-message jobs with retry and delivery tracking.
+
+- Verified incoming webhook signatures using HMAC-SHA256 over the raw request body and validated event payloads before persistence.
+- Implemented idempotent event handling, database-backed job states, duplicate-job protection, rate limiting, retry/backoff behavior, and delivery reconciliation.
+- Built a React/Vite dashboard for automation rules, job monitoring, service status, and processing statistics.
+- Stack: Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL/SQLite, React, Vite, Docker Compose.
+
+[Explore the repository](https://github.com/HarshithhKumar/HookRelay)
+
+<sub>Integration note: outbound messaging currently uses PseudoGram, a mock upstream API; this project does not claim a live Instagram integration. The backend test suite has outstanding failures that are documented in the repository.</sub>
+
+---
+
 ### Kinetix
 **Human Activity Recognition from Smartphone Sensors**
 
