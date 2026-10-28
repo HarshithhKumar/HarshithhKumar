@@ -94,19 +94,6 @@ An AI-powered study platform designed to generate structured exam notes, diagram
 
 ---
 
-### StreamVerse
-**AI Video Streaming Platform**
-
-A full-stack, YouTube-style video platform with creator tools and content discovery features.
-
-- Includes Shorts, playlists, subscriptions, watch history, and Cloudinary media storage in the project scope described on my resume.
-- Creator Studio functionality covers channel analytics and revenue/monetization; the project also includes AI-powered search and recommendations.
-- Resume-listed stack: React.js, Node.js, Express.js, MongoDB, JWT, Google OAuth, Cloudinary; the resume describes 5+ MongoDB models and 15+ REST endpoints.
-
-<sub>A public repository URL has not yet been verified, so no unverified project link is shown here.</sub>
-
----
-
 ### Kinetix
 **Human Activity Recognition from Smartphone Sensors**
 
