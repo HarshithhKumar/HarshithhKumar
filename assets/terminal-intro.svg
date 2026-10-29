@@ -15,5 +15,5 @@
 <text x="44" y="210" fill="#8ba4ff">"focus"</text><text x="102" y="210" fill="#c8cad8">:</text><text x="117" y="210" fill="#42e6a4">"Full-stack, Applied ML, IoT"</text><text x="362" y="210" fill="#c8cad8">,</text>
 <text x="44" y="236" fill="#8ba4ff">"goal"</text><text x="93" y="236" fill="#c8cad8">:</text><text x="108" y="236" fill="#42e6a4">"Build useful, intelligent systems"</text>
 <text x="24" y="263" fill="#ffbd69">}</text>
-<text x="24" y="286" fill="#35d07f">❯ <tspan fill="#a8b0d8">_</tspan></text>
+<text x="24" y="286" fill="#35d07f">❯ <tspan fill="#a8b0d8">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
 </g></svg>
