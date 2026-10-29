@@ -193,6 +193,31 @@ A deep-learning project that classifies six physical activities using accelerome
 
 ---
 
+## SMALL PROJECTS TO EXPLORE
+
+A few projects and experiments from my GitHub profile:
+
+| Project | What it is | Technologies |
+| --- | --- | --- |
+| [Build.exe](https://github.com/HarshithhKumar/build-exe) | A student-friendly interface for discovering beginner project ideas. Front-end prototype made for fun. | HTML, CSS, JavaScript |
+| [Kinetix](https://github.com/HarshithhKumar/Kinetix) | Human activity recognition from smartphone motion data. | Python, TensorFlow |
+| [HookRelay](https://github.com/HarshithhKumar/HookRelay) | A webhook processing and automation experiment. | Python, FastAPI, React |
+| [GestureFusion](https://github.com/HarshithhKumar/GestureFusion) | A gesture and sensor-based project. See the repository for current implementation details. | See repository |
+| [Farmai](https://github.com/HarshithhKumar/Farmai-agricultural-app) | An agricultural app project. | See repository |
+| [Burnly](https://github.com/HarshithhKumar/Burnly) | A personal software project. | See repository |
+
+I'm gradually adding clearer READMEs, setup instructions, screenshots, and demos so each project is easier to understand and try.
+
+---
+
+## GITHUB BADGES
+
+<p>
+  <img src="https://img.shields.io/github/followers/HarshithhKumar?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/HarshithhKumar?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=HarshithhKumar&style=flat&color=2563EB" alt="Profile views" />
+</p>
+
 ## GITHUB ANALYTICS
 <p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
 
