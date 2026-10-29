@@ -43,7 +43,7 @@
 
 ## QUICK INTRO
 
-<table>
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 <td width="55%" valign="top">
 
@@ -53,15 +53,24 @@
 name: Sampangi Harshith Kumar
 location: Hyderabad, India
 status: CSE (AI/ML) Student
-interests:
-  - Full-stack development
-  - Applied machine learning
-  - IoT and embedded systems
-  - Signal processing
-currently_learning:
+
+building:
+  - Full-stack applications
+  - Applied ML projects
+  - Sensor-driven systems
+
+learning:
   - Backend engineering
-  - Deep learning and time-series ML
-  - Building practical software projects
+  - Time-series ML
+  - IoT and signal processing
+
+tech:
+  frontend: React, JavaScript
+  backend: Node.js, Express
+  ml: Python, TensorFlow
+  embedded: ESP32, MATLAB
+
+certification: Oracle Certified Professional: Java SE 17 Developer
 ```
 
 </td>
@@ -74,8 +83,6 @@ currently_learning:
 - Working with sensor data and IoT systems
 - Improving backend and API design
 - Learning by shipping projects
-
-<br/>
 
 ### 💡 Quick Facts
 
@@ -93,55 +100,6 @@ currently_learning:
 <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/divider.svg" width="100%" alt="" />
 
 <br/>
-
-## CONTRIBUTION SHOWCASE
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
-  </picture>
-  <br/>
-  <sub>Generated automatically from GitHub contribution activity using Pac-Man Contribution Graph.</sub>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/divider.svg" width="100%" alt="" />
-
-<br/>
-
----
-
-## ABOUT ME
-<p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
-
-```javascript
-const harshith = {
-  role: "CSE (AI/ML) Student",
-  location: "India",
-  building: [
-    "Full-stack applications",
-    "Applied ML projects",
-    "Sensor-driven systems"
-  ],
-  learning: [
-    "Backend engineering",
-    "Time-series ML",
-    "IoT and signal processing"
-  ],
-  tech: {
-    frontend: ["React", "JavaScript"],
-    backend: ["Node.js", "Express"],
-    ml: ["Python", "TensorFlow"],
-    embedded: ["ESP32", "MATLAB"]
-  },
-  certification: "Java SE 17 OCP"
-};
-```
-
-> I like knowing what happens under the hood. 😏
 
 ## RESEARCH EXPERIENCE
 <p><img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header" width="100%" alt="" /></p>
@@ -306,4 +264,19 @@ A deep-learning project that classifies six physical activities using accelerome
 
 [LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Portfolio](https://codewharshith.github.io) · [LeetCode](https://leetcode.com/u/codewharshith/)
 
+</div>
+
+
+---
+
+## CONTRIBUTION SHOWCASE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  </picture>
+  <br/>
+  <sub>Generated automatically from GitHub contribution activity using Pac-Man Contribution Graph.</sub>
 </div>
