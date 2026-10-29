@@ -15,6 +15,103 @@
 
 </div>
 
+
+<p align="center">
+  <a href="https://github.com/HarshithhKumar">
+    <img src="https://komarev.com/ghpvc/?username=HarshithhKumar&label=Profile%20Views&color=764ba2&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/HarshithhKumar?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarshithhKumar&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/HarshithhKumar?tab=followers">
+    <img src="https://img.shields.io/github/followers/HarshithhKumar?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/HarshithhKumar">
+    <img src="https://img.shields.io/github/stars/HarshithhKumar?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="GitHub stars" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/terminal-intro.svg" alt="Harshith Kumar terminal introduction" width="650" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## QUICK INTRO
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 What I Do
+
+```yaml
+name: Sampangi Harshith Kumar
+location: Hyderabad, India
+status: CSE (AI/ML) Student
+interests:
+  - Full-stack development
+  - Applied machine learning
+  - IoT and embedded systems
+  - Signal processing
+currently_learning:
+  - Backend engineering
+  - Deep learning and time-series ML
+  - Building practical software projects
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- Building full-stack applications
+- Exploring applied AI and machine learning
+- Working with sensor data and IoT systems
+- Improving backend and API design
+- Learning by shipping projects
+
+<br/>
+
+### 💡 Quick Facts
+
+- 🎓 CSE student at SRM University AP
+- 🔬 Research experience in IoT and musical interfaces
+- 🧩 Interested in practical engineering problems
+- ☕ Always curious about how things work
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## CONTRIBUTION SHOWCASE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  </picture>
+  <br/>
+  <sub>Generated automatically from GitHub contribution activity using Pac-Man Contribution Graph.</sub>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/HarshithhKumar/HarshithhKumar/main/assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
 ---
 
 ## ABOUT ME
