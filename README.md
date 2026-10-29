@@ -196,6 +196,10 @@ A deep-learning project that classifies six physical activities using accelerome
 ## GITHUB ANALYTICS
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshithhKumar&theme=radical&hide_border=true" alt="GitHub contribution streak, total contributions, current streak, and longest streak" width="95%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithhKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages in public repositories" width="70%" />
 </p>
 
