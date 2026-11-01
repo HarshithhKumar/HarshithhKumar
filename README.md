@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/sampangi-harshith-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-155EAA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harshithkumar2023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/codewharshith/"><img src="https://img.shields.io/badge/LeetCode-Profile-60A5FA?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codewharshith.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-harshith-sigma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -262,7 +262,7 @@ A deep-learning project that classifies six physical activities using accelerome
 
 **Interested in software engineering, backend development, and applied machine learning.**
 
-[LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Portfolio](https://codewharshith.github.io) · [LeetCode](https://leetcode.com/u/codewharshith/)
+[LinkedIn](https://linkedin.com/in/sampangi-harshith-kumar) · [Portfolio](https://portfolio-harshith-sigma.vercel.app/) · [LeetCode](https://leetcode.com/u/codewharshith/)
 
 </div>
 
