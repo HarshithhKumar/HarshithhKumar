@@ -50,10 +50,6 @@
 ### 🎯 What I Do
 
 ```yaml
-name: Sampangi Harshith Kumar
-location: Hyderabad, India
-status: CSE (AI/ML) Student
-
 building:
   - Full-stack applications
   - Applied ML projects
